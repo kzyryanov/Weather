@@ -1,0 +1,7 @@
+platform :ios, '8.0'
+inhibit_all_warnings!
+
+pod 'INTULocationManager', '~> 4.1'
+pod 'GoogleMaps', '~> 1.11'
+pod 'BlocksKit', '~> 2.2'
+pod 'AFNetworking', '~> 3.0'
